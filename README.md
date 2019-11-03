@@ -1,4 +1,9 @@
 # Roll-up-Game
+***
+
+# Description:
+***
+this my first Unity project, it's a simple game where you have to collect cubes with a ball.
 
 ## Screen Shot
 
